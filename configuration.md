@@ -19,7 +19,19 @@ This section describes our technical setup and configuration of the IT Support S
 ---
 
 ## Topic Configuration  
-**[Screenshot here: topic flow diagram showing all nodes]**
+
+<img width="894" height="567" alt="image" src="https://github.com/user-attachments/assets/ac654e7a-2a6f-4831-a3bd-2db91d4bf89e" />
+
+
+<img width="1358" height="632" alt="image" src="https://github.com/user-attachments/assets/1cf6c53f-a7c1-475c-8a57-129ba0550622" />
+
+
+
+<img width="1358" height="633" alt="image" src="https://github.com/user-attachments/assets/850ef39a-b471-4556-92e6-568748cc5685" />
+
+
+<img width="1355" height="640" alt="image" src="https://github.com/user-attachments/assets/2ba7fc38-d41b-466e-b9fd-c1772e6b0a8e" />
+
 
 The topic "Submit a request" was created to handle IT support requests.  
 
@@ -35,7 +47,8 @@ These phrases start the conversation flow.
 ## Question Nodes Setup  
 
 ### 1. Name Input  
-**[Screenshot here: “What is your name?” node showing Text + variable userName]**
+
+<img width="894" height="567" alt="image" src="https://github.com/user-attachments/assets/ac654e7a-2a6f-4831-a3bd-2db91d4bf89e" />
 
 - Question: What is your name?  
 - Response type: Text  
@@ -44,7 +57,8 @@ These phrases start the conversation flow.
 ---
 
 ### 2. Department Input  
-**[Screenshot here: department question node showing Text + variable department]**
+
+<img width="1358" height="632" alt="image" src="https://github.com/user-attachments/assets/1cf6c53f-a7c1-475c-8a57-129ba0550622" />
 
 - Question: Which department are you in?  
 - Response type: Text  
@@ -53,7 +67,8 @@ These phrases start the conversation flow.
 ---
 
 ### 3. Issue Type Input  
-**[Screenshot here: issue type node showing multiple choice options]**
+
+<img width="1358" height="633" alt="image" src="https://github.com/user-attachments/assets/850ef39a-b471-4556-92e6-568748cc5685" />
 
 - Question: What type of issue are you experiencing?  
 - Response type: Multiple choice  
