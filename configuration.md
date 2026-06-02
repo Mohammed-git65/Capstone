@@ -82,9 +82,10 @@ These phrases start the conversation flow.
 ---
 
 ## Message Configuration (Summary Output)  
-**[Screenshot here: summary message with variables inserted]**
 
-The agent uses stored variables to generate a structured summary:
+<img width="1351" height="634" alt="image" src="https://github.com/user-attachments/assets/40687919-858c-4633-983c-6e86315103e4" />
+
+Our agent uses stored variables to generate a structured summary:
 
 Example:
 
@@ -92,18 +93,6 @@ Here is the summary of your request:
 - Name: {userName}  
 - Department: {department}  
 - Issue Type: {issueType}  
-
----
-
-## Variable Usage  
-**[Screenshot here: variable picker showing inserted variables]**
-
-Variables are used to store user inputs and reuse them later in the conversation.
-
-Configured variables:
-- userName  
-- department  
-- issueType  
 
 ---
 
