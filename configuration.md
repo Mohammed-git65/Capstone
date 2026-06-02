@@ -6,6 +6,9 @@ This section describes our technical setup and configuration of the IT Support S
 
 ## Environment Setup  
 
+<img width="1361" height="634" alt="image" src="https://github.com/user-attachments/assets/7de1a028-c433-4c61-9549-13a6c1ee7dc3" />
+
+
 <img width="1358" height="630" alt="image" src="https://github.com/user-attachments/assets/60d6b4ae-3865-471a-8a09-123c50ad03c5" />
 
 
