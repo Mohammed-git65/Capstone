@@ -97,7 +97,14 @@ Here is the summary of your request:
 ---
 
 ## Testing Configuration  
-**[Screenshot here: test canvas panel]**
+
+<img width="1360" height="625" alt="image" src="https://github.com/user-attachments/assets/b106b438-85b2-41c4-8725-030c1b57b932" />
+
+
+<img width="1362" height="632" alt="image" src="https://github.com/user-attachments/assets/84027a30-9125-4af9-9ec0-b4102ee68f2b" />
+
+
+<img width="1361" height="634" alt="image" src="https://github.com/user-attachments/assets/67f6d3c7-8f43-4508-b458-dd49112fead8" />
 
 The solution was tested using the Test Canvas in Copilot Studio.  
 
@@ -108,24 +115,5 @@ Steps:
 
 ---
 
-## Deployment  
-**[Optional Screenshot here: publish button]**
-
-- The agent was published using the "Publish" option in Copilot Studio  
-- This makes the latest version available for use  
-
----
-
 ## Conclusion  
 The configuration ensures that the agent collects user input correctly, stores it in variables, and presents a structured summary. The setup provides a reliable and consistent IT request submission process.
-``
-
-
-
-
-
-
-<img width="1361" height="634" alt="image" src="https://github.com/user-attachments/assets/e8cb8d72-df4a-4891-8565-6bb5663bc347" />
-
-
-<img width="1358" height="637" alt="image" src="https://github.com/user-attachments/assets/d044a324-6bdd-4642-b743-714ba302af30" />
