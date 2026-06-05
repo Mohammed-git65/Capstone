@@ -1,6 +1,6 @@
 ## Our Solution
 
-We designed and implemented an IT Support Copilot agent using Microsoft Copilot Studio.  
+We designed and implemented an IT Support Copilot solution using Microsoft Copilot Studio.  
 
 The agent helps users submit IT support requests in a structured way by collecting essential information such as name, department, and issue type.  
 
