@@ -1,5 +1,59 @@
 # Configuration
 
+## Overview
+This document describes the technical configuration and setup of the IT Support Agent built using Microsoft Copilot Studio.
+
+The solution is designed to collect user inputs, store them in variables, and display a structured summary for IT support requests.
+
+---
+
+## Platform Setup
+
+The solution was built using the following:
+
+- **Platform:** Microsoft Copilot Studio  
+- **Agent Name:** IT Support Solution  
+- **Topic:** Submit a request  
+
+The agent provides a guided conversational interface for submitting IT requests.
+
+---
+
+## Topic Configuration
+
+A topic named **"Submit a request"** was created to manage the interaction flow.
+
+### Trigger Phrases
+The topic is triggered using the following phrases:
+
+- Submit a request  
+- I need IT support  
+- Report an issue  
+
+> These phrases initiate the conversation flow.
+
+<img width="894" height="567" alt="image" src="https://github.com/user-attachments/assets/ac654e7a-2a6f-4831-a3bd-2db91d4bf89e" />
+
+---
+
+## Conversation Flow
+
+The agent follows a structured flow:
+
+``
+
+
+
+
+
+
+
+
+
+
+
+# Configuration
+
 ## Overview  
 This section describes our technical setup and configuration of the IT Support Solution built by Group 2 using Microsoft Copilot Studio.
 
@@ -25,7 +79,7 @@ This section describes our technical setup and configuration of the IT Support S
 
 - Topic created: Submit a request
   
-<img width="894" height="567" alt="image" src="https://github.com/user-attachments/assets/ac654e7a-2a6f-4831-a3bd-2db91d4bf89e" />
+
 
 
 <img width="1358" height="632" alt="image" src="https://github.com/user-attachments/assets/1cf6c53f-a7c1-475c-8a57-129ba0550622" />
