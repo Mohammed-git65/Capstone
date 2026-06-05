@@ -12,14 +12,19 @@ This section describes our technical setup and configuration of the IT Support S
 <img width="1358" height="630" alt="image" src="https://github.com/user-attachments/assets/60d6b4ae-3865-471a-8a09-123c50ad03c5" />
 
 
+
+
 - Platform used: Microsoft Copilot Studio  
-- Agent name: IT Support Agent  
-- Topic created: Submit a request  
+- Agent name: Group 2 IT Solution  
+ 
 
 ---
 
 ## Topic Configuration  
 
+
+- Topic created: Submit a request
+  
 <img width="894" height="567" alt="image" src="https://github.com/user-attachments/assets/ac654e7a-2a6f-4831-a3bd-2db91d4bf89e" />
 
 
@@ -33,6 +38,7 @@ This section describes our technical setup and configuration of the IT Support S
 <img width="1355" height="640" alt="image" src="https://github.com/user-attachments/assets/2ba7fc38-d41b-466e-b9fd-c1772e6b0a8e" />
 
 
+
 The topic "Submit a request" was created to handle IT support requests.  
 
 Trigger phrases configured include:  
@@ -40,7 +46,10 @@ Trigger phrases configured include:
 - I need IT support  
 - Report an issue  
 
+
 These phrases start the conversation flow.
+
+<img width="894" height="567" alt="image" src="https://github.com/user-attachments/assets/ac654e7a-2a6f-4831-a3bd-2db91d4bf89e" />
 
 ---
 
@@ -48,20 +57,20 @@ These phrases start the conversation flow.
 
 ### 1. Name Input  
 
-<img width="894" height="567" alt="image" src="https://github.com/user-attachments/assets/ac654e7a-2a6f-4831-a3bd-2db91d4bf89e" />
+<img width="1358" height="632" alt="image" src="https://github.com/user-attachments/assets/1cf6c53f-a7c1-475c-8a57-129ba0550622" />
 
 - Question: What is your name?  
-- Response type: Text  
+- Response type  
 - Variable: `userName`  
 
 ---
 
 ### 2. Department Input  
 
-<img width="1358" height="632" alt="image" src="https://github.com/user-attachments/assets/1cf6c53f-a7c1-475c-8a57-129ba0550622" />
+
 
 - Question: Which department are you in?  
-- Response type: Text  
+- Response type
 - Variable: `department`  
 
 ---
