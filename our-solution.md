@@ -1,23 +1,24 @@
-# Our Solution
+## Our Solution
 
-## Overview
-We built a Copilot agent in Microsoft Copilot Studio to collect user information (name, department, issue type) and display a structured summary before submission.
+We designed and implemented an IT Support Copilot agent using Microsoft Copilot Studio.  
 
+The agent helps users submit IT support requests in a structured way by collecting essential information such as name, department, and issue type.  
 
-# Step 1: Create a New Copilot Agent
-
-Go to Microsoft Copilot Studio
-https://copilotstudio.microsoft.com
-Click create blank agent
-Enter:
-
-Name: Group 2 IT Support Solution
-Description: Handles basic IT request submission
+It then displays a summary of the request to ensure all details are complete.
 
 
-Click Create
 
-<img width="1361" height="634" alt="image" src="https://github.com/user-attachments/assets/7de1a028-c433-4c61-9549-13a6c1ee7dc3" />
+
+## How It Works
+
+The solution uses a topic called "Submit a request" which is triggered when users type phrases like "Submit a request" or "I need IT support".
+
+The agent performs the following steps:
+1. Asks for the user's name  
+2. Asks for the department  
+3. Asks for the issue type  
+4. Stores each response in variables  
+5. Displays a structured summary
 
 
 
@@ -34,6 +35,19 @@ Click Create
 <img width="1355" height="640" alt="image" src="https://github.com/user-attachments/assets/2ba7fc38-d41b-466e-b9fd-c1772e6b0a8e" />
 
 
+
+
+### Test Case: Normal Flow
+Input:
+- Name: Mohammed  
+- Department: IT  
+- Issue Type: Network  
+
+Expected Result:
+- Agent displays correct summary  
+
+Actual Result:
+Passed
 
 <img width="1360" height="625" alt="image" src="https://github.com/user-attachments/assets/b106b438-85b2-41c4-8725-030c1b57b932" />
 
@@ -54,3 +68,21 @@ Click Create
 
 <img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/42b2cf54-94ef-4939-9398-0d89b9fb14ef" />
 
+
+
+## Variables Used
+
+The agent uses variables to store user input:
+
+- userName: Stores the user's name  
+- department: Stores the user's department  
+- issueType: Stores the type of issue  
+
+These variables are used to generate the summary message.
+
+
+## Conclusion
+
+The solution successfully ensures that IT requests are structured, complete, and easy for the IT team to process.  
+
+It improves efficiency and user experience.
